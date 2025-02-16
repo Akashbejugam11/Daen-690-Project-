@@ -4,4 +4,6 @@ Various stakeholder require specific insights, but it  becomes challenging to i
 
 ## Architecture Diagram
 
-<img width="481" alt="image" src="https://github.com/user-attachments/assets/d46f52f6-e476-4274-b81f-dd45b0d8c84a" />
+<div align="center">
+  <img width="481" alt="image" src="https://github.com/user-attachments/assets/d46f52f6-e476-4274-b81f-dd45b0d8c84a" />
+</div>
